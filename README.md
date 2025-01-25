@@ -25,6 +25,8 @@
 </p>
 <h2> For hardware: </h2>
 <p>
+  <img alt="arduino" src="https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" />
+  <img alt="platformio" src="https://img.shields.io/badge/-PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white" />
   <img alt="espressif" src="https://img.shields.io/badge/-Espressif-E7352C?style=flat-square&logo=espressif&logoColor=white" />
 <!--   <img alt="espressif" src="https://img.shields.io/badge/-Espressif-E7352C?style=flat-square&logo=&logoColor=white" /> -->
 </p>
